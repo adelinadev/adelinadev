@@ -1,4 +1,4 @@
-## Hi there, I am Adelina 🌻
+![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/GitHub_Header.jpg)
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=adelinadev&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelinadev&layout=compact" />
