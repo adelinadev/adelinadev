@@ -1,6 +1,7 @@
-
+![Header image](https://raw.githubusercontent.com/adelinadev/banner/master/_Hey%2C_nice_to_see_you.png)
+<br/><br/>
 **About me**
-<br/>
+<br/><br/>
 I’m currently learning Web Development Technologies in Frontend
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=adelinadev&show_icons=true&theme=radical" />
