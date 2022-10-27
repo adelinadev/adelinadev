@@ -1,7 +1,4 @@
 
-
-<img src="https://raw.githubusercontent.com/adelinadev/banner/master/_Hey%2C_nice_to_see_you.png" width="100%" height=350>
-<br/><br/>
 **About me**
 <br/><br/>
 I’m currently learning Web Development Technologies in Frontend
